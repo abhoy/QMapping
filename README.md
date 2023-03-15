@@ -4,7 +4,7 @@ QMapping: A tool for architectural mapping of quantum circuits
 
 ### Installation:
     Download (clone) the source to a local directory and run the following commands
-    to source build:
+    for source build:
 
     1. Create a python virtual environment
         python3 -m venv <env name> 
